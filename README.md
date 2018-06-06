@@ -1,3 +1,3 @@
 # watchtower
-A pile of people. And van load of pakistans... but on your wrist. Get it, peopile?
+A pile of people. And van load of pakistans... built so simply, it can even work on your wrist. 
 
